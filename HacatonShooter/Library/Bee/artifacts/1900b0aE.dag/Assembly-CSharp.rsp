@@ -362,6 +362,7 @@
 "Assets/Packages/Modified fragsurf/TraceUtil/Trace.cs"
 "Assets/Packages/Modified fragsurf/TraceUtil/Tracer.cs"
 "Assets/Packages/Modified fragsurf/Water.cs"
+"Assets/Scripts/Weapon.cs"
 -langversion:9.0
 
 /deterministic
